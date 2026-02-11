@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "漂泊者",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-11T16:53:33.749430Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "漂泊者",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_漂泊者_DUSTCELL.txt"
+    }
+  ]
+}
